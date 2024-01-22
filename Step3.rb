@@ -1,3 +1,7 @@
+# Nick Miller
+# Project 2a Step 3
+# Random Number Guesser in Ruby
+
 number_generator = Random.new
 number = number_generator.rand(1..20)
 # https://ruby-doc.org/core-2.4.1/Random.html
